@@ -1,7 +1,0 @@
-To install from source using Rubygems:
-  rake package
-  [sudo] gem install pkg/AAlib-Ruby-{version}.gem
-
-To install manually:
-  ruby setup.rb config
-  [sudo] ruby setup.rb install
